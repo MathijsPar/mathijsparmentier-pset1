@@ -5,6 +5,7 @@
   even rotate the screen for a more spacious view of Mr. Potatohead.
 
   ![Screenshot1](https://github.com/MathijsPar/mathijsparmentier-pset1/blob/master/doc/Screenshot_20171102-100526.png)
+  ![Screenshot2](https://github.com/MathijsPar/mathijsparmentier-pset1/blob/master/doc/Screenshot_20171102-100530.png)
 
   ## Author
   Programming and Designing - Mathijs Parmentier
