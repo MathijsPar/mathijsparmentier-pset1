@@ -4,8 +4,7 @@
   body parts or garments to display and which to keep hidden. Daring users might
   even rotate the screen for a more spacious view of Mr. Potatohead.
 
-  For a demonstration of the app, I have included two screenshots in the doc
-  folder.
+  ![Screenshot1](https://github.com/MathijsPar/mathijsparmentier-pset1/blob/master/doc/Screenshot_20171102-100526.png)
 
   ## Author
   Programming and Designing - Mathijs Parmentier
