@@ -9,4 +9,5 @@
 
   ## Author
   Programming and Designing - Mathijs Parmentier
+  
   Assignment idea & Images - Victoria Kirst
